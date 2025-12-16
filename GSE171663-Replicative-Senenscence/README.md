@@ -40,7 +40,7 @@ The analysis is divided into two main analysis folders, with shared inputs and f
 The full analysis with concurrent figures can be viewed using the interactive HTML reports below:
 
 * [View Part 1: Differential Expression Report](https://stimilsina24.github.io/Bulk-RNA-seq-R/GSE171663-Replicative-Senenscence/Part1-DESeq2-Gene-Expr-analysis/Part1-Gene-Exp-Analysis-DESeq2.html)
-* [View Part 2: GSEA Report](https://stimilsina24.github.io/Bulk-RNA-seq-R/GSE171663-Replicative-Senenscence/Part2-GSEA-Pathway-analysis/Bulk-RNA-seq-part2-PA-GSEA.html)
+* [View Part 2: GSEA Report](https://stimilsina24.github.io/Bulk-RNA-seq-R/GSE171663-Replicative-Senenscence/Part2-GSEA-Pathway-analysis/Part2-PA-GSEA-WP.html)
 
 ### **Findings**
 #### 1. Validation of Senescence Model:
