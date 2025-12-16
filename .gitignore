@@ -27,7 +27,6 @@
 *.o
 *.so
 
-# Ignore temporary files
-./pre-clinical-data
-./clinical-data
+#Ignore RDS
+*.rds
 
