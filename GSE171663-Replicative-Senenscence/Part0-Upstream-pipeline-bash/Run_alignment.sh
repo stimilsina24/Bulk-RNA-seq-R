@@ -7,6 +7,8 @@
 # Tools: FastQC, STAR, Qualimap, Subread (featureCounts)
 # -------------------------------------------------------------------------
 
+##Download the fastq files before starting.
+
 # 1. QC Raw Reads
 echo "Starting FastQC..."
 mkdir -p fastqc_reports
@@ -24,8 +26,8 @@ STAR --runMode genomeGenerate \
 
 # 3. Align Reads (Loop through all FASTQ files)
 echo "Starting Alignment..."
-mkdir -p mapped/
-mkdir -p bams/
+mkdir -p mapped/ 
+mkdir -p bams/ 
 
 for file in *.fastq; do 
     # Extract base name (e.g., SRR14168768)
