@@ -7,7 +7,7 @@
 # Tools: FastQC, STAR, Qualimap, Subread (featureCounts)
 # -------------------------------------------------------------------------
 
-##Download the fastq files before starting.
+##Download the SRR files and convert them to fastq before starting.
 
 # 1. QC Raw Reads
 echo "Starting FastQC..."
